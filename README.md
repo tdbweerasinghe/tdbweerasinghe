@@ -2,6 +2,7 @@
 - 👀 I’m interested in exploring coding 
 - 🌱 I’m currently learning Data Science and OPC UA
 - 💞️ I’m looking to collaborate on Node JS, Python, C++
+- Web: www.tharinduweerasinghe.com
 
 
 <!---
