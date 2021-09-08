@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tdbweerasinghe
-- 👀 I’m interested in exploring coding 
-- 🌱 I’m currently learning Data Science and OPC UA
-- 💞️ I’m looking to collaborate on Node JS, Python, C++
+- 👋 Hi, I’m @tdbweerasinghe!
+- 👀 I’m interested in exploring coding! 
+- 🌱 I’m currently learning Data Science and OPC UA.
+- 💞️ I’m looking to collaborate on Node JS, Python, C++ and also Java.
 - Web: www.tharinduweerasinghe.com
 
 
